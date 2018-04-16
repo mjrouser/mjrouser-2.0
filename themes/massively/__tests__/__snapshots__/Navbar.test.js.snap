@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Navbar /> should render correctly 1`] = `
+<nav
+  id="nav"
+>
+  <ul
+    className="links"
+  >
+    <li
+      className=""
+      key="0"
+    >
+      <GatsbyLink
+        to="/"
+      >
+        Home
+      </GatsbyLink>
+    </li>
+    <li
+      className=""
+      key="1"
+    >
+      <GatsbyLink
+        to="/about"
+      >
+        About
+      </GatsbyLink>
+    </li>
+    <li
+      className=""
+      key="2"
+    >
+      <GatsbyLink
+        to="/contact"
+      >
+        Contact
+      </GatsbyLink>
+    </li>
+  </ul>
+  <ul
+    className="icons"
+  >
+    <li
+      key="0"
+    >
+      <a
+        className="icon fa-twitter"
+        href="https://www.twitter.com/mjrouser"
+      >
+        <span
+          className="label"
+        >
+          Twitter
+        </span>
+      </a>
+    </li>
+    <li
+      key="1"
+    >
+      <a
+        className="icon fa-linkedin"
+        href="https://www.linkedin.com/in/mjrouser"
+      >
+        <span
+          className="label"
+        >
+          LinkedIn
+        </span>
+      </a>
+    </li>
+    <li
+      key="2"
+    >
+      <a
+        className="icon fa-github"
+        href="https://www.github.com/mjrouser"
+      >
+        <span
+          className="label"
+        >
+          Github
+        </span>
+      </a>
+    </li>
+    <li
+      key="3"
+    >
+      <a
+        className="icon fa-envelope"
+        href="mailto:matthew@mjrouser.com?subject=Mjrouser.com inquiry"
+      >
+        <span
+          className="label"
+        >
+          email
+        </span>
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
