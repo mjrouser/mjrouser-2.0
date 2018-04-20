@@ -2,7 +2,7 @@
   "name": "mjrouser-2.0",
   "description": "Personal Site for Matthew Rouser",
   "version": "1.0.0",
-  "author": "Mathew Rouser <mathews@mjrouser.com>",
+  "author": "Matthew Rouser <matthew@mjrouser.com>",
   "dependencies": {
     "classnames": "^2.2.5",
     "gatsby": "^1.9.241",
