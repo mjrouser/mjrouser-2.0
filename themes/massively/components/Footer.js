@@ -15,7 +15,7 @@ export default class Footer extends React.Component {
 
     return (
       <footer id="footer">
-      {/*}
+     
         <section>
           <form method="post"
                 name="contact"
@@ -46,7 +46,7 @@ export default class Footer extends React.Component {
             </ul>
           </form>
         </section>
-      */}
+    
         <section className="split contact">
           <section>
             <h3>Social</h3>

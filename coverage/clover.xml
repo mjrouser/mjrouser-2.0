@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1523905538381" clover="3.2.0">
+  <project timestamp="1523905538381" name="All files">
+    <metrics statements="70" coveredstatements="53" conditionals="9" coveredconditionals="5" methods="45" coveredmethods="29" elements="124" coveredelements="87" complexity="0" loc="70" ncloc="70" packages="3" files="18" classes="18">
+      <package name="test">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <file name="jestSetup.js" path="/Users/mjr/repos/mjrouser-2.0/test/jestSetup.js">
+          <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="6" count="14" type="stmt"/>
+          <line num="9" count="14" type="stmt"/>
+          <line num="10" count="14" type="stmt"/>
+          <line num="11" count="14" type="stmt"/>
+          <line num="14" count="14" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+        </file>
+        <file name="shim.js" path="/Users/mjr/repos/mjrouser-2.0/test/shim.js">
+          <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="14" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="themes.massively">
+        <metrics statements="15" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="2"/>
+        <file name="Massively.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/Massively.js">
+          <metrics statements="14" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="2"/>
+          <line num="25" count="1" type="stmt"/>
+          <line num="26" count="1" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="40" count="0" type="stmt"/>
+          <line num="46" count="0" type="stmt"/>
+          <line num="50" count="0" type="stmt"/>
+          <line num="51" count="0" type="stmt"/>
+          <line num="52" count="0" type="stmt"/>
+          <line num="59" count="1" type="stmt"/>
+          <line num="63" count="1" type="stmt"/>
+          <line num="64" count="0" type="stmt"/>
+          <line num="67" count="0" type="stmt"/>
+          <line num="68" count="0" type="stmt"/>
+          <line num="72" count="1" type="stmt"/>
+        </file>
+        <file name="theme-config.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/theme-config.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="8" type="stmt"/>
+        </file>
+      </package>
+      <package name="themes.massively.components">
+        <metrics statements="47" coveredstatements="41" conditionals="9" coveredconditionals="5" methods="33" coveredmethods="27"/>
+        <file name="Background.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Background.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+        </file>
+        <file name="Copyright.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Copyright.js">
+          <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="12" count="1" type="stmt"/>
+        </file>
+        <file name="FeaturedPost.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/FeaturedPost.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="7" count="1" type="stmt"/>
+        </file>
+        <file name="Footer.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Footer.js">
+          <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="9" count="4" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+        </file>
+        <file name="Header.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Header.js">
+          <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="12" count="1" type="stmt"/>
+        </file>
+        <file name="Intro.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Intro.js">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="12" count="1" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+        </file>
+        <file name="MenuButton.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/MenuButton.js">
+          <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+        </file>
+        <file name="NavPanel.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/NavPanel.js">
+          <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="12" count="3" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="20" count="4" type="stmt"/>
+          <line num="27" count="1" type="stmt"/>
+          <line num="39" count="0" type="stmt"/>
+        </file>
+        <file name="Navbar.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Navbar.js">
+          <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="14" count="1" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+          <line num="17" count="3" type="stmt"/>
+          <line num="24" count="1" type="stmt"/>
+          <line num="25" count="4" type="stmt"/>
+          <line num="34" count="1" type="stmt"/>
+        </file>
+        <file name="Page.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Page.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+        </file>
+        <file name="Pagination.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Pagination.js">
+          <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+          <line num="7" count="1" type="stmt"/>
+        </file>
+        <file name="Post.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Post.js">
+          <metrics statements="2" coveredstatements="2" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="2"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+        </file>
+        <file name="PreviewPost.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/PreviewPost.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+        </file>
+        <file name="Tags.js" path="/Users/mjr/repos/mjrouser-2.0/themes/massively/components/Tags.js">
+          <metrics statements="2" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
