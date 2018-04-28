@@ -3,6 +3,7 @@
   "description": "Personal Site for Matthew Rouser",
   "version": "1.0.0",
   "author": "Matthew Rouser <matthew@mjrouser.com>",
+  "repository": "https://github.com/mjrouser/mjrouser-2.0",
   "dependencies": {
     "classnames": "^2.2.5",
     "gatsby": "^1.9.241",
