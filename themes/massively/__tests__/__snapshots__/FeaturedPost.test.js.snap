@@ -29,7 +29,7 @@ exports[`<FeaturedPost /> should render correctly 1`] = `
   >
     <img
       alt=""
-      src="images/pic01.jpg"
+      src="../images/pic01.jpg"
     />
   </GatsbyLink>
   <ul
